@@ -123,7 +123,7 @@ augmentation-მა train/val გაპი 17.9%-დან 0.8%-მდე და
 
 ## საერთო შედეგების შედარება
 
-| არქიტექტურა | Train Acc | Val Acc | გაპი | WandB Run |
+| არქიტექტურა | Train Acc | Val Acc | Gap | WandB Run |
 |------------|-----------|---------|------|-----------|
 | Baseline CNN | 91.4% | 50.2% | 41.2% | baseline-cnn |
 | BatchNorm+Dropout | 66.7% | 54.9% | 11.8% | batchnorm-dropout-cnn |
