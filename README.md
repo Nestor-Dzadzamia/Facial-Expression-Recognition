@@ -21,8 +21,8 @@ Kaggle competition : [Challenges in Representation Learning: Facial Expression R
 ├── notebooks/
 │   ├── data_exploration.ipynb       
 │   ├── baseline_cnn.ipynb          
-│   ├── BatchNorm_Dropout_CNN.ipynb  
-│   └── Augmented_CNN.ipynb          
+│   ├── batchnorm_dropout_cnn.ipynb  
+│   └── augmented_cnn.ipynb          
 └── README.md
 ```
 ---
