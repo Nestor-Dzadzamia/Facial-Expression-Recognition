@@ -6,7 +6,7 @@ Kaggle competition : [Challenges in Representation Learning: Facial Expression R
 
 ## პროექტის აღწერა
 
-გვაქვს FER2013 მონაცემთა ბაზა, რომელიც შეიცავს (48x48 პიქსელის ზომის) სახის ნაცრისფერ სურათებს. სურათებზე მოცემულია ემოციების 7 კლასი:
+გვაქვს FER2013 Data Set, რომელიც შეიცავს (48x48 პიქსელის ზომის) სახის ნაცრისფერ სურათებს. სურათებზე მოცემულია ემოციების 7 კლასი:
 `Angry, Disgust, Fear, Happy, Sad, Surprise, Neutral`
 
 - სატრენინგო სურათები: 28,709
