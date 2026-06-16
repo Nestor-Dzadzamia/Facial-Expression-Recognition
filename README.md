@@ -52,7 +52,7 @@ Kaggle competition : [Challenges in Representation Learning: Facial Expression R
 **ჩემი მიდგომები:**
 - 2 Convolutional Layer (16→32 ფილტრი)
 - ReLU აქტივაცია და MaxPooling თითოეული კონვოლუციის შემდეგ
-- 1 სრულად დაკავშირებული ლეიერი (128 ნეირონი)
+- Fully Connected layer (128 ნეირონი)
 - რეგულარიზაცია არ გამომიყენებია, რადგან მიზანი იყო საბაზისო შედეგის და overfitting-ის ჩვენება
 
 **რატომ Baseline CNN:**
